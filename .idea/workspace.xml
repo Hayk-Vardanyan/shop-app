@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="514e5d60-51b9-4183-bf65-9373c3f0c4ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/helpers/custom_route.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/helpers/custom_route.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/models/http_exec.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/http_exec.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/providers/auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/auth.dart" afterDir="false" />

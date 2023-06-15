@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="514e5d60-51b9-4183-bf65-9373c3f0c4ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/helpers/custom_route.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/helpers/custom_route.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/http_exec.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/http_exec.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/providers/auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/auth.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/providers/cart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/cart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/providers/orders.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/orders.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/providers/products.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/products.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/providers/products_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/providers/products_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/auth_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/auth_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/cart_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/cart_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/edit_product_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/edit_product_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/product_detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/product_detail_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/products_overview_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/products_overview_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screen/user_products_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screen/user_products_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/app_drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/app_drawer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/badge.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/badge.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/order_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/order_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/product_item.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/product_item.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/widgets/products_grid.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/products_grid.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2REPctX5MS9rt8rT9A6DOMkJm2q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/app/shop_flutter_app/Shop_App_Flutter",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514e5d60-51b9-4183-bf65-9373c3f0c4ad" name="Changes" comment="" />
+      <created>1686812349733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686812349733</updated>
+    </task>
+    <servers />
+  </component>
+</project>
